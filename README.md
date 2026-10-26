@@ -286,7 +286,7 @@ Baseado nesse hardware, a SiriNEO Technologies adaptou o Arduino NANO R4, criand
 </div>
 <br>
 
-A NANOR4ST, desenvolvida pela SiriNEO Technologies, consolida a estratégia da startup em oferecer uma plataforma robusta, escalável e totalmente alinhada às tecnologias adotadas no mercado contemporâneo. Sua arquitetura moderna garante que estudantes, pesquisadores e desenvolvedores possam trabalhar desde o primeiro contato com uma solução de padrão profissional, apta tanto para ambientes educacionais quanto para aplicações reais de prototipagem e engenharia.
+A **[NANOR4ST](https://github.com/sirineo-technologies/NANO_R4_ST)**, desenvolvida pela SiriNEO Technologies, consolida a estratégia da startup em oferecer uma plataforma robusta, escalável e totalmente alinhada às tecnologias adotadas no mercado contemporâneo. Sua arquitetura moderna garante que estudantes, pesquisadores e desenvolvedores possam trabalhar desde o primeiro contato com uma solução de padrão profissional, apta tanto para ambientes educacionais quanto para aplicações reais de prototipagem e engenharia.
 
 ---
 
