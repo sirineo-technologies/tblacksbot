@@ -302,6 +302,7 @@ Com a TBLACKSBOT, a SiriNEO Technologies reafirma seu compromisso em promover a 
 
 ## 🔗 Links Úteis
 
+*   [📚 Documentação Completa no GitBook (Wiki SiriNEO)](https://sirineotechnologies.com/sirineo-wiki/GITbook-SiriNEOTchnologies-2024/Tblacksbot/tblacksbot.html)
 *   [Mais informações sobre a TBLACKSBOT (Site SiriNEO)](https://sirineotechnologies.com/index.php/2026/02/13/tblackstbot-a-plataforma-tecnologica-da-sirineo-technologies/)
 *   [Repositório da TBLACKSBOT no GitHub](https://github.com/sirineo-technologies/tblacksbot)
 *   [Datasheet do Renesas RA4M1 (Mouser)](https://www.mouser.com/datasheet/2/698/r01ds0355ej0110_ra4m1-1999414.pdf)
